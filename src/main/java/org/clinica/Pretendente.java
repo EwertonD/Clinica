@@ -1,4 +1,4 @@
-package org.example;
+package org.clinica;
 
 public class Pretendente extends Sistema {
     private int ID;

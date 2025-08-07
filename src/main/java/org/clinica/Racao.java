@@ -1,4 +1,4 @@
-package org.example;
+package org.clinica;
 
 public class Racao extends Estoque {
     private int ID;

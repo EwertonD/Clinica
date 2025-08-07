@@ -1,4 +1,4 @@
-package org.example;
+package org.clinica;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

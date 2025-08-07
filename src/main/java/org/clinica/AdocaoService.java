@@ -1,4 +1,4 @@
-package org.example;
+package org.clinica;
 
 public class AdocaoService {
     private final Sistema sistema;
